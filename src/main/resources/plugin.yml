@@ -1,7 +1,7 @@
 name: MoneyCodeEventowki
 version: 1.0.1
 main: pl.moneycode.eventowki.MoneyCodeEventowki
-api-version: '1.21.4'
+api-version: '1.21'
 author: MoneyCode
 depend: [WorldGuard, WorldEdit]
 commands:
